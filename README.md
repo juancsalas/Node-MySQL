@@ -48,6 +48,8 @@ This command allows a "manager" to do the following things listed in the store t
 * Add New Product
 * Nothing, I've changed my mind
 
+PICTURE
+
 <br>
 
 **View Products for Sale**
@@ -65,6 +67,8 @@ PICTURE
 **Add to Inventory**
 
 This option allows the user to select an Item ID and add inventory to the existing quantity. The app will prompt the user for an Item ID and the amount of inventory they want to add. Once the information is submited, the app will add the inventory, update the table and display the item name and the new inventory quantity.
+
+PICTURE
 
 **Add New Product**
 
