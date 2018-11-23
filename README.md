@@ -1,7 +1,7 @@
 # Node-MySQL - Juan Carlos Salas
 ## Coding Bootcamp - Asignment 12
 
-###### _*For a demonstration video, please [click here](____).*_
+###### _*For a demonstration video, please [click here](https://drive.google.com/open?id=1SN9YEVd4gEZXZ290cVwuB-Yec6j_BNuG).*_
 
 This application uses Node and MySQL to create a fictional store with pre-determined inventory, where "customers" may purchase items if so desired, and "managers" have authority to add stock or new items into the store. 
 
