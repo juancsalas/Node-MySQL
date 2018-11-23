@@ -1,5 +1,5 @@
 # Node-MySQL - Juan Carlos Salas
-## Coding Bootcamp - Asignment 12
+## Coding Bootcamp - Asignment 10
 
 ###### _*For a demonstration video, please [click here](https://drive.google.com/open?id=1SN9YEVd4gEZXZ290cVwuB-Yec6j_BNuG).*_
 
