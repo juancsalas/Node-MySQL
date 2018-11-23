@@ -17,23 +17,21 @@ After the user will be prompted to input how many of the items they would like. 
 
 Once the user inputs the quantity of the item they want, the app will calculate the total and display it on the terminal alongisde the number they purchased and the name of the item. In the background the app will also subtract the purchased amount from the current inventory and update the table.
 
-PICTURE
+![bamazonCustomer](images/bamazonCustomer.png)
 
 If after inputting the quantity of the item they desire, that number is higher than the stock available, the user will receive a message saying so.
 
-PICTURE
+![NotEnoughInventory](images/NotEnoughInventory.png)
 
 If there is no more items left in stock, a message refering to the item as "out of stock" will appear.
 
-PICTURE
+![NoInventory](images/NoInventory.png)
 
 After any of these three scenarios occure, the user will be prompted if they want to continue shopping or exit the store. If the user chooses to continue shopping, the app will display a new table with the updated inventory and prompt the user to input the Item ID they desire.
 
-PICTURE
-
 If the user choses to exit the store, the app will disconnect returning them to their normal terminal display
 
-PICTURE
+![customerBye](images/customerBye.png)
 
 
 <br>
@@ -48,7 +46,7 @@ This command allows a "manager" to do the following things listed in the store t
 * Add New Product
 * Nothing, I've changed my mind
 
-PICTURE
+![bamazonManagerMenu](images/bamazonManagerMenu.png)
 
 <br>
 
@@ -56,39 +54,40 @@ PICTURE
 
 Chosing this options simply shows the current state of the store. A table will appear displaying the Item ID, Item Name, Department it belongs to, the price and the inventory for every item.
 
-PICTURE
+![ViewInventory](images/ViewInventory.png)
 
 **View Low Inventory**
 
 This option displays a table of the items in the store which have an inventory less than six.
 
-PICTURE
+![LowInventory](images/LowInventory.png)
 
 **Add to Inventory**
 
 This option allows the user to select an Item ID and add inventory to the existing quantity. The app will prompt the user for an Item ID and the amount of inventory they want to add. Once the information is submited, the app will add the inventory, update the table and display the item name and the new inventory quantity.
 
-PICTURE
+![AddInventory](images/AddInventory.png)
 
 **Add New Product**
 
 This option allows the user to add a new item to the store. The app will prompt the user to create a new Item ID, then will ask for the name of the item. Third, the app will display a list of departments the user can elect which corresponds to the item. Finally, the user will have to submit the price and the initial inventory quantity.
 
-PICTURE
+![AddProductDepts](images/AddProductDepts.png)
 
 When everything is submitted, the app will display a table of items with the new product added.
 
-PICTURE
-
+![AddProduct](images/AddProduct.png)
 
 **Nothing, I've changed my mind**
 
 This option disconnects the user from the app, and sends them to their normal terminal.
 
+![ChangeMind](images/ChangeMind.png)
+
 **BONUS:**
 For every option besides the last one, the user will prompted if they want to do anything else with the store. Choosing YES displays the beginning menu again. Choosing no will disconnect them from the, sending them to their normal terminal.
 
-PICTURE
+![ManagerBye](images/ManagerBye.png)
 
 
 
