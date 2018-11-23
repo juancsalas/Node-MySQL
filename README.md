@@ -82,7 +82,7 @@ When everything is submitted, the app will display a table of items with the new
 
 This option disconnects the user from the app, and sends them to their normal terminal.
 
-![ChangeMind](images/ChangeMind.png)
+![ChangeMind](images/ChangedMind.png)
 
 **BONUS:**
 For every option besides the last one, the user will prompted if they want to do anything else with the store. Choosing YES displays the beginning menu again. Choosing NO will disconnect them from the, sending them to their normal terminal.
